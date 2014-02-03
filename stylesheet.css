@@ -80,9 +80,9 @@ p{
 	float:left;
 }
 #header ul li{
-	float:middle;
+	float:left;
 	width:150px;
-	border-left:solid 1px #999;
+	border-left:solid 2px #999;
 }
 #search{
 	width:170px;
