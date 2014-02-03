@@ -110,17 +110,17 @@ p{
 	margin-top:10px;
 }
 #left{
-	float:middle;
+	float:left;
 	width:150px;
 	text-align:center;
-	margin-right:10px;
+	margin-right:20px;
 }
 #main{
 	width:735px;
-	float:middle;
+	float:left;
 }
 #right{
-	float:middle;
+	float:left;
 	width:195px;
 	margin-left:10px;
 }
