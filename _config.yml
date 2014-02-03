@@ -3,13 +3,13 @@ lsi: false
 pygments: true
 markdown: redcarpet
 auto: true
-title: "松的博客"
-public_url: "http://youngpine.github.com"
+title: "哲的博客"
+public_url: "http://zhengchuanzhe.github.com"
 keywords: "android,xml,html,JavaScript,css,Github"
 owner:
-  name: "陈古松"
-  mail: "1036720429@qq.com"
+  name: "郑传哲"
+  mail: "1563151758@qq.com"
 disqus:
-  short_name: "youngpine"
+  short_name: "zcz"
 paginate: 10
 exclude: [start-jekyll.bat, Github.sln, Github.v11.suo]
