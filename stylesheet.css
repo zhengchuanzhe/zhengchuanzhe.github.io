@@ -179,6 +179,9 @@ p{
 	padding-right:10px;
 }
 #friends{
+	margin:5px 0;
+	padding-top:15px;
+	height:40px;
 	text-align:center;
 }
 /*footer*/
