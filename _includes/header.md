@@ -22,7 +22,7 @@
       <input type="text" id="search_text" name="q" />
 	  <input type="hidden" name="oe" value="GB2312"/>
 	  <input type="hidden" name="hl" value="zh-CN"/>
-	  <input type="hidden" name="as_sitesearch" value="youngpine.github.io">
+	  <input type="hidden" name="as_sitesearch" value="zhengchuanzhe.github.io">
 	  <input type="submit" id="search_button" name="search_button" value="搜索" />
       </form>
       </div>
