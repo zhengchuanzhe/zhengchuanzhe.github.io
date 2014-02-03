@@ -4,7 +4,7 @@
       <ul id="nav" class="nav">
           <a href="/" target="_self"><li>首页</li></a>
           <a href="/page.html" target="_self"><li>博文</li></a>
-          <a href="/production.html" target="_self"><li>博友</li></a>
+          <a href="/production.html" target="_self"><li>作品</li></a>
           <a href="/message.html" target="_self"><li>留言</li></a>
           <a href="/about.html" target="_self"><li>关于</li></a>
       </ul>
