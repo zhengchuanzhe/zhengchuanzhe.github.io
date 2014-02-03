@@ -179,15 +179,15 @@ p{
 	padding-right:10px;
 }
 #friends{
-	text-align:center;
-}
-/*footer*/
-#footer{
 	margin:5px 0;
 	padding-top:15px;
 	height:40px;
 	text-align:center;
 	color:#666;
+}
+/*footer*/
+#footer{
+	text-align:center;
 }
 #footer a:link,#footer a:visited{
 	color:#666;
