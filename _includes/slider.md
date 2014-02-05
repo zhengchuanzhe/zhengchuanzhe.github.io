@@ -1,6 +1,4 @@
 <div id="slider">
-               <img src="images/header-bg.jpg" id="sliderImg"width="735" height="241" />
-</div>
-<div id="slider">
-               <img src="images/github-button.png" id="sliderImg"width="75" height="21" />
+               <img src="http://v1.freep.cn/3tb_140204170859va65512293.jpg
+" id="sliderImg"width="735" height="241" />
 </div>
