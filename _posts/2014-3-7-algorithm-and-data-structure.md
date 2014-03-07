@@ -42,7 +42,6 @@ tags: [算法]
 
 C++代码：
    <pre class="code">
-   
    #include<iostream>
    using namespace std;
    int main()
@@ -50,15 +49,17 @@ C++代码：
 	cout<<"请输入总人数n和报数m"<<endl;
 	int n,m,s(0);
 	cin>>n>>m;
+	
+	//递归计算哪个人
 	for(int i=2;i<=n;i++)
 	{
 		s=(s+m)%i;
 	}
+	
 	cout<<"最后剩的人的编号"<<s<<endl;
 	system("pause");
 	return 0;
    }
-   
    </pre>
    
    
