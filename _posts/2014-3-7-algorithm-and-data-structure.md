@@ -41,7 +41,7 @@ tags: [算法]
 ####三、代码####
 
 C++代码：
-
+  <pre class="code">
    #include<iostream>
    using namespace std;
    int main()
@@ -58,7 +58,7 @@ C++代码：
 	system("pause");
 	return 0;
    }
-
+  </pre>
 
    
   注意如果编号是1~n则最后s+1；或者写成：
