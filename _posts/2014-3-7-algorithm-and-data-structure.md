@@ -59,6 +59,7 @@ C++代码：
    }
    </pre>
   
+  
   注意如果编号是1~n则最后s+1；或者写成：
     <pre class="code">
       for(int i=2;i<=n;i++)
@@ -66,6 +67,7 @@ C++代码：
            s=((s+m)%i-1+i)%i; 
       }
     </pre>
+
 
   不能写成：
     <pre class="code">
