@@ -47,21 +47,19 @@ C++代码：
    int main()
    {
 	cout<<"请输入总人数n和报数m"<<endl;
-	
 	int n,m,s(0);
 	cin>>n>>m;
 	for(int i=2;i<=n;i++)
 	{
 		s=(s+m)%i;
 	}
-	
 	cout<<"最后剩的人的编号"<<s<<endl;
 	system("pause");
 	return 0;
    }
    </pre>
-  
-  
+   
+   
   注意如果编号是1~n则最后s+1；或者写成：
     <pre class="code">
       for(int i=2;i<=n;i++)
