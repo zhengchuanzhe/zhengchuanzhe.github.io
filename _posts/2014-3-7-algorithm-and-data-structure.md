@@ -1,9 +1,9 @@
 ---
-title: 约瑟夫环问题递推方法
-description:今天看到约瑟夫问题的递推方法，时间复杂度o（n） 
-keywords: 算法，数据结构
+title: 约瑟夫环问题
+description: 递推解决约瑟夫环问题
+keywords: suanfa
 layout: post
-tags: [算法与数据结构]
+tags: [算法]
 ---
 
    原来做约翰夫环类问题时都是进行模拟，今天看到一个方法用数学方法，递推得到结果的方法觉得挺好就写下来了。时间复杂度为o（n）
@@ -44,7 +44,6 @@ C++代码：
    <pre class="code">
    #include<iostream>
    using namespace std;
-
    int main()
    {
 	cout<<"请输入总人数n和报数m"<<endl;
