@@ -47,7 +47,9 @@ C++代码：
    int main()
    {
 	cout<<"请输入总人数n和报数m"<<endl;
+	
 	int n,m,s(0);
+	
 	cin>>n>>m;
 	
 	//递归计算哪个人
@@ -61,7 +63,7 @@ C++代码：
 	return 0;
    }
    </pre>
-   
+
    
   注意如果编号是1~n则最后s+1；或者写成：
     <pre class="code">
