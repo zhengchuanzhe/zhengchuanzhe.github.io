@@ -3,7 +3,7 @@ title: Github博客文件结构简析
 description: 初次接触Github，谈谈其文档结构
 keywords: github
 layout: post
-tags: [教程]
+tags: [经验]
 ---
 
 ####一、综述####
