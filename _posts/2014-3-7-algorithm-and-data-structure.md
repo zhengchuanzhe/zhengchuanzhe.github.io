@@ -42,6 +42,7 @@ tags: [算法]
 
 C++代码：
    <pre class="code">
+   
    #include<iostream>
    using namespace std;
    int main()
@@ -57,6 +58,7 @@ C++代码：
 	system("pause");
 	return 0;
    }
+   
    </pre>
    
    
